@@ -1,2 +1,4 @@
 # self-destruct-button
-Self Destruct Button
+Self Destruct Button Simulator. Ionic Application.
+
+# STATUS - IN PROGRESS
