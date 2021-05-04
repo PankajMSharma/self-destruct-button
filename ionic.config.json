@@ -1,0 +1,7 @@
+{
+  "name": "self-destruct-button",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
