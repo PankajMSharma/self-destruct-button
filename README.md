@@ -2,7 +2,7 @@
 Self Destruct Button Simulator. Ionic Application.
 Just For Fun App.
 
-# STATUS - IN PROGRESS
+# STATUS - DEVELOPMENT COMPLETE
 
 # Description
 Clicking on the button will display a countdown timer.
