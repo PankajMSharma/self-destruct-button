@@ -1,4 +1,4 @@
-# self-destruct-button
+# self-destruct-button [WORKING]
 Self Destruct Button Simulator. Ionic Application.
 Just For Fun App.
 
