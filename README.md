@@ -1,4 +1,4 @@
-# self-destruct-button [WORKING]
+# self-destruct-button [App Link: https://play.google.com/store/apps/details?id=self.destruction.simulator]
 Self Destruct Button Simulator. Ionic Application.
 Just For Fun App.
 
